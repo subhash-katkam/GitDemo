@@ -12,6 +12,13 @@ public class RestAPITest {
 	@Test
 	public void deleteTwitter() {
 		System.out.println("Delete Twitter");
+		System.out.println("Run the twitter");
 	}
-
+	
+	@Test
+	public void you() {
+		System.out.println("the end of you");
+		System.out.println("you you");
+	}
+	
 }
