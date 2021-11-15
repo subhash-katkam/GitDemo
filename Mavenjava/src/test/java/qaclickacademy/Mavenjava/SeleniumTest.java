@@ -23,5 +23,10 @@ public class SeleniumTest {
 	public void element() {
 		System.out.println("Element UI are prent in browser");
 	}
+	
+	@Test
+	public void helloWorld() {
+		System.out.println("Hello World");
+	}
 
 }

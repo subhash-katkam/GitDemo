@@ -21,4 +21,9 @@ public class RestAPITest {
 		System.out.println("you you");
 	}
 	
+	@Test
+	public void india() {
+		System.out.println("I love my india");
+	}
+	
 }

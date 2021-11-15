@@ -23,5 +23,10 @@ public class AppiumTest {
 	public void iphones() {
 		System.out.println("iphones operating is different");
 	}
+	
+	@Test
+	public void country() {
+		System.out.println("I love my country");
+	}
 
 }
