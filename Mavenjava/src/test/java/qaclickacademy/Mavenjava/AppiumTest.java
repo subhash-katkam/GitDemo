@@ -13,5 +13,15 @@ public class AppiumTest {
 	public void iosApps() {
 		System.out.println("IOS apps");
 	}
+	
+	@Test
+	public void mobilephone() {
+		System.out.println("mobile calls rcording");
+	}
+	
+	@Test
+	public void iphones() {
+		System.out.println("iphones operating is different");
+	}
 
 }
