@@ -13,5 +13,15 @@ public class SeleniumTest {
 	public void elementUI() {
 		System.out.println("Element UI");
 	}
+	
+	@Test
+	public void browser() {
+		System.out.println("Browser should open in chrome");
+	}
+	
+	@Test
+	public void element() {
+		System.out.println("Element UI are prent in browser");
+	}
 
 }
